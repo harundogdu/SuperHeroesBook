@@ -13,6 +13,7 @@
 		995E2EDC266C2F40008898C6 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 995E2EDA266C2F40008898C6 /* Main.storyboard */; };
 		995E2EDE266C2F41008898C6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 995E2EDD266C2F41008898C6 /* Assets.xcassets */; };
 		995E2EE1266C2F41008898C6 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 995E2EDF266C2F41008898C6 /* LaunchScreen.storyboard */; };
+		995E2EE9266C3533008898C6 /* toDetailsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 995E2EE8266C3533008898C6 /* toDetailsViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		995E2EDD266C2F41008898C6 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		995E2EE0266C2F41008898C6 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		995E2EE2266C2F41008898C6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		995E2EE8266C3533008898C6 /* toDetailsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = toDetailsViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				995E2ED4266C2F40008898C6 /* AppDelegate.swift */,
 				995E2ED6266C2F40008898C6 /* SceneDelegate.swift */,
 				995E2ED8266C2F40008898C6 /* ViewController.swift */,
+				995E2EE8266C3533008898C6 /* toDetailsViewController.swift */,
 				995E2EDA266C2F40008898C6 /* Main.storyboard */,
 				995E2EDD266C2F41008898C6 /* Assets.xcassets */,
 				995E2EDF266C2F41008898C6 /* LaunchScreen.storyboard */,
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				995E2EE9266C3533008898C6 /* toDetailsViewController.swift in Sources */,
 				995E2ED9266C2F40008898C6 /* ViewController.swift in Sources */,
 				995E2ED5266C2F40008898C6 /* AppDelegate.swift in Sources */,
 				995E2ED7266C2F40008898C6 /* SceneDelegate.swift in Sources */,
